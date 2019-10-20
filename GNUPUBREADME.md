@@ -40,5 +40,3 @@ DLd348RuKNy20lng3W/tRhkhxC8sop6h
 =Adsu
 
 -----END PGP PUBLIC KEY BLOCK-----
-
-
